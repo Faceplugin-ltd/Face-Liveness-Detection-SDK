@@ -2,7 +2,7 @@
 <img alt="" src="https://github.com/Faceplugin-ltd/FaceRecognition-Javascript/assets/160750757/657130a9-50f2-486d-b6d5-b78bcec5e6e2.png" width=200/>
 </div>
 
-# On-Premise Face Liveness Detection (Anti Spoofing) SDK
+# Face Liveness Detection SDK - Fully On Premise
 Empowering security, our **iBeta level 2 liveness detection** model excels in identifying and thwarting threats including **printed photos, video replay, 3D masks, and deepfake attempts,** ensuring robust and reliable authentication.
 <br>This is **on-premise** SDK which means everything is processed on your phone and **NO** data leaves the device 
 <br></br>
