@@ -5,7 +5,7 @@
 # Face Liveness Detection SDK - Fully On Premise - iBeta Level2 Compliant
 ## Overview
 Our **iBeta level 2 Compliant** `liveness detection SDK` excels in identifying and thwarting threats including **printed photos, video replay, 3D masks, and deepfake attempts,** ensuring robust and reliable authentication.
-<br>This is `on-premise liveness detection SDK` which means everything is processed in your phone and **NO** data leaves the device 
+<br>This is `on-premise liveness detection SDK` which means everything is processed in your devices and **NO** data leaves the device 
 <br></br>
 
 ## Try our Mobile SDK on Google Play
