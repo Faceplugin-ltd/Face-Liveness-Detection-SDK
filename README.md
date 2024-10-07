@@ -2,9 +2,10 @@
 <img alt="" src="https://github.com/Faceplugin-ltd/FaceRecognition-Javascript/assets/160750757/657130a9-50f2-486d-b6d5-b78bcec5e6e2.png" width=200/>
 </div>
 
-# Face Liveness Detection SDK - Fully On Premise
-Empowering security, our **iBeta level 2 liveness detection** model excels in identifying and thwarting threats including **printed photos, video replay, 3D masks, and deepfake attempts,** ensuring robust and reliable authentication.
-<br>This is **on-premise** SDK which means everything is processed on your phone and **NO** data leaves the device 
+# Face Liveness Detection SDK - Fully On Premise - iBeta Level2 Certified
+## Overview
+Our **iBeta level 2 certified** `liveness detection SDK` excels in identifying and thwarting threats including **printed photos, video replay, 3D masks, and deepfake attempts,** ensuring robust and reliable authentication.
+<br>This is `on-premise liveness detection SDK` which means everything is processed on your phone and **NO** data leaves the device 
 <br></br>
 
 ## Try our Mobile SDK on Google Play
@@ -17,7 +18,7 @@ Empowering security, our **iBeta level 2 liveness detection** model excels in id
 [Faceplugin Playground](https://playground.faceplugin.com/)
 <br></br>
 
-<h2>Screenshots</h2>
+## Screenshots
 <div align="left">
 <img alt="" src="https://github.com/Faceplugin-ltd/FaceLivenessDetection-Android/assets/160750757/3a900b76-2f8e-4894-89bb-2474ac6aeb7a" width=200/>
 <img alt="" src="https://github.com/Faceplugin-ltd/FaceLivenessDetection-Android/assets/160750757/bff5371b-b73d-4ced-a096-9db8b6eb037f" width=200/>
@@ -26,14 +27,14 @@ Empowering security, our **iBeta level 2 liveness detection** model excels in id
 
 </div>
 
-<h2>On the Youtube</h2>
+## On the Youtube
 <div align="center">
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=cjvEBzFpHGk" target="_blank">
  <img src="http://img.youtube.com/vi/cjvEBzFpHGk/maxresdefault.jpg" alt="Watch the video" width="960" height="520" border="10" />
 </a>
 </div>
 
-<h2>List of our Products</h2>
+## List of our Products
 
 * **[FaceRecognition-LivenessDetection-Android](https://github.com/Faceplugin-ltd/FaceRecognition-Android)**
 * **[FaceRecognition-LivenessDetection-iOS](https://github.com/Faceplugin-ltd/FaceRecognition-iOS)**
@@ -47,7 +48,7 @@ Empowering security, our **iBeta level 2 liveness detection** model excels in id
 * **[Liveness Detection SDK](https://github.com/Faceplugin-ltd/Face-Liveness-Detection-SDK)**
 * **[ID Card Recognition](https://github.com/Faceplugin-ltd/ID-Card-Recognition)**
 
-<h2>Contact</h2>
+## Contact
 <div align="left">
 <a target="_blank" href="mailto:info@faceplugin.com"><img src="https://img.shields.io/badge/email-info@faceplugin.com-blue.svg?logo=gmail " alt="faceplugin.com"></a>&emsp;
 <a target="_blank" href="https://t.me/faceplugin"><img src="https://img.shields.io/badge/telegram-@faceplugin-blue.svg?logo=telegram " alt="faceplugin.com"></a>&emsp;
