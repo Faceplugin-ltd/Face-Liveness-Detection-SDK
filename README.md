@@ -6,7 +6,7 @@
 #### Open Source FaceSDK- [Here](https://github.com/Faceplugin-ltd/Open-Source-Face-Recognition-SDK) <span> <img src="https://github.com/user-attachments/assets/303cda2b-a195-42c5-b481-6b2b796d2910" style="margin: 4px; width: 36px; height: 20px"> <span/>
 #### Documentation- [Here](https://docs.faceplugin.com)
 
-# Face Liveness Detection SDK - Fully On Premise - iBeta Level2 Compliant
+# Face Liveness Detection SDK - Fully On Premise - iBeta Level 2 Compliant
 ## Overview
 Our **iBeta level 2 Compliant** `liveness detection SDK` excels in identifying and thwarting threats including **printed photos, video replay, 3D masks, and deepfake attempts,** ensuring robust and reliable authentication.
 <br>This is `on-premise liveness detection SDK` which means everything is processed in your devices and **NO** data leaves the device 
